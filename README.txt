@@ -1,4 +1,4 @@
-this change is for css assignments
+master change for js assignments this change is for css assignments
 <<<<<<< HEAD
 
 this is a readme file for html assignments
